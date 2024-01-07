@@ -35,6 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+<img src="/screenshot/1.png" height="600em" />
+
+https://www.youtube.com/watch?v=pUNSHPyVryU
 
 安装ES7+ React/Redux/React-Native snippets
 rafce快速创建组件
